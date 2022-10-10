@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[VerifyAutomationPrcticeSignButn]]>
+    </line>
+    <line>
+      <![CDATA[VeryfyEmailTextField]]>
+    </line>
+    <line>
+      <![CDATA[VerifycreateAccountButn]]>
+    </line>
+    <line>
+      <![CDATA[VerifyMrRadioButton]]>
+    </line>
+    <line>
+      <![CDATA[VerifyFirstameTextField]]>
+    </line>
+    <line>
+      <![CDATA[VerifyLastNameTextField]]>
+    </line>
+    <line>
+      <![CDATA[VerifyLastNameTextField]]>
+    </line>
+    <line>
+      <![CDATA[VerifyPassWordTextField]]>
+    </line>
+    <line>
+      <![CDATA[VeryDayDropDownList]]>
+    </line>
+    <line>
+      <![CDATA[VeryfyMonthsDropDown]]>
+    </line>
+    <line>
+      <![CDATA[VeryfyYearDropDown]]>
+    </line>
+    <line>
+      <![CDATA[VerifyNewsLetterSelectBox]]>
+    </line>
+    <line>
+      <![CDATA[VerifyCompanyTextField]]>
+    </line>
+    <line>
+      <![CDATA[VerifyaddressTextFiElementld]]>
+    </line>
+    <line>
+      <![CDATA[Verifyaddress2TextFiElementld]]>
+    </line>
+    <line>
+      <![CDATA[VerifyCityTextField]]>
+    </line>
+    <line>
+      <![CDATA[VerifyAutomationPracticeSignInBtn]]>
+    </line>
+    <line>
+      <![CDATA[VerifyAutomationPracticEmailTextField]]>
+    </line>
+    <line>
+      <![CDATA[VerifyAutomationPracticPassTextField]]>
+    </line>
+    <line>
+      <![CDATA[VerifyAutomationPracticForgotPassword]]>
+    </line>
+    <line>
+      <![CDATA[VerifyAutomationPracticAccoountSignInBtn]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-10-09T20:11:28Z" name="Functional" finished-at="2022-10-09T20:12:32Z" duration-ms="63109">
+    <groups>
+    </groups>
+    <test started-at="2022-10-09T20:11:28Z" name="Test" finished-at="2022-10-09T20:12:32Z" duration-ms="63109">
+      <class name="com.May2022.qa.TestCases.AutomationPracticeLoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.May2022.qa.TestCases.AutomationPracticeLoginPageTest@176b75f7]" started-at="2022-10-09T12:12:14Z" name="setUp" finished-at="2022-10-09T12:12:25Z" duration-ms="11000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AutomationPrcticeLoginPageTest()[pri:0, instance:com.May2022.qa.TestCases.AutomationPracticeLoginPageTest@176b75f7]" started-at="2022-10-09T12:12:25Z" name="AutomationPrcticeLoginPageTest" finished-at="2022-10-09T12:12:31Z" duration-ms="6029" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[VerifyAutomationPracticeSignInBtn]]>
+            </line>
+            <line>
+              <![CDATA[VerifyAutomationPracticEmailTextField]]>
+            </line>
+            <line>
+              <![CDATA[VerifyAutomationPracticPassTextField]]>
+            </line>
+            <line>
+              <![CDATA[VerifyAutomationPracticForgotPassword]]>
+            </line>
+            <line>
+              <![CDATA[VerifyAutomationPracticAccoountSignInBtn]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AutomationPrcticeLoginPageTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.May2022.qa.TestCases.AutomationPracticeLoginPageTest@176b75f7]" started-at="2022-10-09T12:12:31Z" name="TearDown" finished-at="2022-10-09T12:12:32Z" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.May2022.qa.TestCases.AutomationPracticeLoginPageTest -->
+      <class name="com.May2022.qa.TestCases.AutomationPracticeRegistrationPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.May2022.qa.TestCases.AutomationPracticeRegistrationPageTest@6c0d7c83]" started-at="2022-10-09T12:11:28Z" name="SetUp" finished-at="2022-10-09T12:11:55Z" duration-ms="26574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="automationPracticeRegistrationPageTest()[pri:0, instance:com.May2022.qa.TestCases.AutomationPracticeRegistrationPageTest@6c0d7c83]" started-at="2022-10-09T12:11:55Z" name="automationPracticeRegistrationPageTest" finished-at="2022-10-09T12:12:14Z" duration-ms="19168" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[VerifyAutomationPrcticeSignButn]]>
+            </line>
+            <line>
+              <![CDATA[VeryfyEmailTextField]]>
+            </line>
+            <line>
+              <![CDATA[VerifycreateAccountButn]]>
+            </line>
+            <line>
+              <![CDATA[VerifyMrRadioButton]]>
+            </line>
+            <line>
+              <![CDATA[VerifyFirstameTextField]]>
+            </line>
+            <line>
+              <![CDATA[VerifyLastNameTextField]]>
+            </line>
+            <line>
+              <![CDATA[VerifyLastNameTextField]]>
+            </line>
+            <line>
+              <![CDATA[VerifyPassWordTextField]]>
+            </line>
+            <line>
+              <![CDATA[VeryDayDropDownList]]>
+            </line>
+            <line>
+              <![CDATA[VeryfyMonthsDropDown]]>
+            </line>
+            <line>
+              <![CDATA[VeryfyYearDropDown]]>
+            </line>
+            <line>
+              <![CDATA[VerifyNewsLetterSelectBox]]>
+            </line>
+            <line>
+              <![CDATA[VerifyCompanyTextField]]>
+            </line>
+            <line>
+              <![CDATA[VerifyaddressTextFiElementld]]>
+            </line>
+            <line>
+              <![CDATA[Verifyaddress2TextFiElementld]]>
+            </line>
+            <line>
+              <![CDATA[VerifyCityTextField]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- automationPracticeRegistrationPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.May2022.qa.TestCases.AutomationPracticeRegistrationPageTest@6c0d7c83]" started-at="2022-10-09T12:12:14Z" name="tearDown" finished-at="2022-10-09T12:12:14Z" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.May2022.qa.TestCases.AutomationPracticeRegistrationPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Functional -->
+</testng-results>

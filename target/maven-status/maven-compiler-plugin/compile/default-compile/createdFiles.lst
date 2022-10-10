@@ -1,0 +1,4 @@
+com\May2022\qa\pages\LoginPage.class
+com\May2022\qa\Utilities\utils.class
+com\May2022\qa\Base\TestBaseBrowser.class
+com\May2022\qa\pages\AutomationPrcticeRegistrationPage.class
