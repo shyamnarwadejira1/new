@@ -249,4 +249,4 @@ To https://github.com/shyamnarwadejira1/new.git
 branch 'master' set up to track 'origin/master'.
 
 shyam@DESKTOP-FJGHUJB MINGW32 /e/21May2022 (master)
-$
+$ git pull origin master
