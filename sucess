@@ -1,0 +1,252 @@
+
+shyam@DESKTOP-FJGHUJB MINGW32 /e/21May2022
+$ git init
+Initialized empty Git repository in E:/21May2022/.git/
+
+shyam@DESKTOP-FJGHUJB MINGW32 /e/21May2022 (master)
+$ git remote add origin master https://github.com/shyamnarwadejira1/new.git
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+
+shyam@DESKTOP-FJGHUJB MINGW32 /e/21May2022 (master)
+$ git remote add origin https://github.com/shyamnarwadejira1/new.git
+
+shyam@DESKTOP-FJGHUJB MINGW32 /e/21May2022 (master)
+$ git add -A
+warning: LF will be replaced by CRLF in target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/Surefire suite/Surefire test.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/Surefire suite/Surefire test.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/jquery-1.7.1.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/junitreports/TEST-com.May2022.qa.TestCases.AutomationPracticeLoginPageTest.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/junitreports/TEST-com.May2022.qa.TestCases.AutomationPracticeRegistrationPageTest.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/old/Surefire suite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/old/Surefire suite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/old/Surefire suite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/old/Surefire suite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/old/Surefire suite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/old/Surefire suite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/old/Surefire suite/reporter-output.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/old/Surefire suite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/old/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/testng-reports.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in target/surefire-reports/testng-reports.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/Default suite/Default test.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/Default suite/Default test.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/Functional/Test.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/Functional/Test.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/jquery-1.7.1.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-com.May2022.qa.TestCases.AutomationPracticeLoginPageTest.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-com.May2022.qa.TestCases.AutomationPracticeRegistrationPageTest.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/junitreports/TEST-com.May2022.qa.TestCases.NEXTukHomeText.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/reporter-output.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Default suite/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Functional/classes.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Functional/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Functional/main.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Functional/methods-alphabetical.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Functional/methods-not-run.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Functional/methods.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Functional/reporter-output.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/Functional/toc.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/old/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/testng-reports.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in test-output/testng-reports.js.
+The file will have its original line endings in your working directory
+
+shyam@DESKTOP-FJGHUJB MINGW32 /e/21May2022 (master)
+$ git commit -m "first commit"
+[master (root-commit) ab872a8] first commit
+ 109 files changed, 3762 insertions(+)
+ create mode 100644 .classpath
+ create mode 100644 .idea/.gitignore
+ create mode 100644 .idea/compiler.xml
+ create mode 100644 .idea/encodings.xml
+ create mode 100644 .idea/jarRepositories.xml
+ create mode 100644 .idea/misc.xml
+ create mode 100644 .idea/runConfigurations.xml
+ create mode 100644 .project
+ create mode 100644 .settings/org.eclipse.core.resources.prefs
+ create mode 100644 .settings/org.eclipse.jdt.core.prefs
+ create mode 100644 .settings/org.eclipse.m2e.core.prefs
+ create mode 100644 TestNgXml/Functional.xml
+ create mode 100644 pom.xml
+ create mode 100644 src/main/java/com/May2022/qa/Base/TestBaseBrowser.java
+ create mode 100644 src/main/java/com/May2022/qa/TestData/TestData.xlsx
+ create mode 100644 src/main/java/com/May2022/qa/Utilities/utils.java
+ create mode 100644 src/main/java/com/May2022/qa/pages/AutomationPrcticeRegistrationPage.java
+ create mode 100644 src/main/java/com/May2022/qa/pages/LoginPage.java
+ create mode 100644 src/test/java/com/May2022/qa/TestCases/AutomationPracticeLoginPageTest.java
+ create mode 100644 src/test/java/com/May2022/qa/TestCases/AutomationPracticeRegistrationPageTest.java
+ create mode 100644 target/classes/META-INF/MANIFEST.MF
+ create mode 100644 target/classes/META-INF/maven/org.example/21May2022/pom.properties
+ create mode 100644 target/classes/META-INF/maven/org.example/21May2022/pom.xml
+ create mode 100644 target/classes/com/May2022/qa/Base/TestBaseBrowser.class
+ create mode 100644 target/classes/com/May2022/qa/Utilities/utils.class
+ create mode 100644 target/classes/com/May2022/qa/pages/AutomationPrcticeRegistrationPage.class
+ create mode 100644 target/classes/com/May2022/qa/pages/LoginPage.class
+ create mode 100644 target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+ create mode 100644 target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+ create mode 100644 target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+ create mode 100644 target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+ create mode 100644 target/surefire-reports/Surefire suite/Surefire test.html
+ create mode 100644 target/surefire-reports/Surefire suite/Surefire test.xml
+ create mode 100644 target/surefire-reports/TEST-TestSuite.xml
+ create mode 100644 target/surefire-reports/TestSuite.txt
+ create mode 100644 target/surefire-reports/bullet_point.png
+ create mode 100644 target/surefire-reports/collapseall.gif
+ create mode 100644 target/surefire-reports/emailable-report.html
+ create mode 100644 target/surefire-reports/failed.png
+ create mode 100644 target/surefire-reports/index.html
+ create mode 100644 target/surefire-reports/jquery-1.7.1.min.js
+ create mode 100644 target/surefire-reports/junitreports/TEST-com.May2022.qa.TestCases.AutomationPracticeLoginPageTest.xml
+ create mode 100644 target/surefire-reports/junitreports/TEST-com.May2022.qa.TestCases.AutomationPracticeRegistrationPageTest.xml
+ create mode 100644 target/surefire-reports/navigator-bullet.png
+ create mode 100644 target/surefire-reports/old/Surefire suite/Surefire test.properties
+ create mode 100644 target/surefire-reports/old/Surefire suite/classes.html
+ create mode 100644 target/surefire-reports/old/Surefire suite/groups.html
+ create mode 100644 target/surefire-reports/old/Surefire suite/index.html
+ create mode 100644 target/surefire-reports/old/Surefire suite/main.html
+ create mode 100644 target/surefire-reports/old/Surefire suite/methods-alphabetical.html
+ create mode 100644 target/surefire-reports/old/Surefire suite/methods-not-run.html
+ create mode 100644 target/surefire-reports/old/Surefire suite/methods.html
+ create mode 100644 target/surefire-reports/old/Surefire suite/reporter-output.html
+ create mode 100644 target/surefire-reports/old/Surefire suite/testng.xml.html
+ create mode 100644 target/surefire-reports/old/Surefire suite/toc.html
+ create mode 100644 target/surefire-reports/old/index.html
+ create mode 100644 target/surefire-reports/passed.png
+ create mode 100644 target/surefire-reports/skipped.png
+ create mode 100644 target/surefire-reports/testng-reports.css
+ create mode 100644 target/surefire-reports/testng-reports.js
+ create mode 100644 target/surefire-reports/testng-results.xml
+ create mode 100644 target/surefire-reports/testng.css
+ create mode 100644 target/test-classes/com/May2022/qa/TestCases/AutomationPracticeLoginPageTest.class
+ create mode 100644 target/test-classes/com/May2022/qa/TestCases/AutomationPracticeRegistrationPageTest.class
+ create mode 100644 test-output/Default suite/Default test.html
+ create mode 100644 test-output/Default suite/Default test.xml
+ create mode 100644 test-output/Default suite/testng-failed.xml
+ create mode 100644 test-output/Functional/Test.html
+ create mode 100644 test-output/Functional/Test.xml
+ create mode 100644 test-output/bullet_point.png
+ create mode 100644 test-output/collapseall.gif
+ create mode 100644 test-output/emailable-report.html
+ create mode 100644 test-output/failed.png
+ create mode 100644 test-output/index.html
+ create mode 100644 test-output/jquery-1.7.1.min.js
+ create mode 100644 test-output/junitreports/TEST-com.May2022.qa.TestCases.AutomationPracticeLoginPageTest.xml
+ create mode 100644 test-output/junitreports/TEST-com.May2022.qa.TestCases.AutomationPracticeRegistrationPageTest.xml
+ create mode 100644 test-output/junitreports/TEST-com.May2022.qa.TestCases.NEXTukHomeText.xml
+ create mode 100644 test-output/navigator-bullet.png
+ create mode 100644 test-output/old/Default suite/Default test.properties
+ create mode 100644 test-output/old/Default suite/classes.html
+ create mode 100644 test-output/old/Default suite/groups.html
+ create mode 100644 test-output/old/Default suite/index.html
+ create mode 100644 test-output/old/Default suite/main.html
+ create mode 100644 test-output/old/Default suite/methods-alphabetical.html
+ create mode 100644 test-output/old/Default suite/methods-not-run.html
+ create mode 100644 test-output/old/Default suite/methods.html
+ create mode 100644 test-output/old/Default suite/reporter-output.html
+ create mode 100644 test-output/old/Default suite/testng.xml.html
+ create mode 100644 test-output/old/Default suite/toc.html
+ create mode 100644 test-output/old/Functional/Test.properties
+ create mode 100644 test-output/old/Functional/classes.html
+ create mode 100644 test-output/old/Functional/groups.html
+ create mode 100644 test-output/old/Functional/index.html
+ create mode 100644 test-output/old/Functional/main.html
+ create mode 100644 test-output/old/Functional/methods-alphabetical.html
+ create mode 100644 test-output/old/Functional/methods-not-run.html
+ create mode 100644 test-output/old/Functional/methods.html
+ create mode 100644 test-output/old/Functional/reporter-output.html
+ create mode 100644 test-output/old/Functional/testng.xml.html
+ create mode 100644 test-output/old/Functional/toc.html
+ create mode 100644 test-output/old/index.html
+ create mode 100644 test-output/passed.png
+ create mode 100644 test-output/skipped.png
+ create mode 100644 test-output/testng-failed.xml
+ create mode 100644 test-output/testng-reports.css
+ create mode 100644 test-output/testng-reports.js
+ create mode 100644 test-output/testng-results.xml
+ create mode 100644 test-output/testng.css
+
+shyam@DESKTOP-FJGHUJB MINGW32 /e/21May2022 (master)
+$ git push -u origin master
+Enumerating objects: 146, done.
+Counting objects: 100% (146/146), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (115/115), done.
+Writing objects: 100% (146/146), 84.20 KiB | 1.32 MiB/s, done.
+Total 146 (delta 29), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (29/29), done.
+To https://github.com/shyamnarwadejira1/new.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+
+shyam@DESKTOP-FJGHUJB MINGW32 /e/21May2022 (master)
+$
